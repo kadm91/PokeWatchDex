@@ -1,4 +1,6 @@
-# PokeWatchDex
+<p align="center">
+<img src="https://github.com/kadm91/assets/blob/main/PokeWatchDex-Title.png" /> 
+</p>
 
 Pokedex for Apple Watch created using the pokeapi 
 <br>
